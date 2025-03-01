@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175084577279",
+    "project_id": "app1-55056",
+    "storage_bucket": "app1-55056.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175084577279:android:93077f0aa332126383c7ca",
+        "android_client_info": {
+          "package_name": "com.desimone.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADaBNv0f44zPHGVcHtQFTogATeAZb8-Ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
